@@ -1,0 +1,4 @@
+package AccountTypes
+
+class Diamond {
+}

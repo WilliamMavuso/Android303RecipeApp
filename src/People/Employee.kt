@@ -1,0 +1,4 @@
+package People
+
+class Employee {
+}
