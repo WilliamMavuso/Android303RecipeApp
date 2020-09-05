@@ -1,4 +1,0 @@
-package AccountTypes
-
-class TaxFree {
-}

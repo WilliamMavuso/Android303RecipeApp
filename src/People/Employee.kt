@@ -1,4 +1,0 @@
-package People
-
-class Employee {
-}
